@@ -6,7 +6,7 @@
  * automatisch anhand des gewählten Geräts (device_class + Namen), jede
  * Zuordnung lässt sich im Karteneditor überschreiben.
  */
-const WS_VERSION = "1.3.0";
+const WS_VERSION = "0.1.4";
 
 const I18N = {
   de: {
